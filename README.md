@@ -12,7 +12,6 @@ PyQuest is an interactive platform for learning Python through an adventure-them
 - 👤 **User Profile & Settings**
   - Customizable avatars
   - Progress tracking
-  - Music toggle preference
 
 - 🏆 **Progress & Gamification**
   - XP system
@@ -24,9 +23,6 @@ PyQuest is an interactive platform for learning Python through an adventure-them
   - Interactive Python code execution
   - Auto-grading with test cases
 
-- 🔔 **Notifications**
-  - In-app notifications for achievements
-  - Email notifications for important events
 
 ## Tech Stack
 
