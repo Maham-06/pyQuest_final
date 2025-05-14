@@ -50,7 +50,7 @@ PyQuest is an interactive platform for learning Python through an adventure-them
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/pyquest.git
+   git clone https://github.com/Maham-06/pyQuest_final.git
    cd pyquest
    \`\`\`
 
