@@ -1,0 +1,27 @@
+pyquest-mern/
+├── client/                 # React frontend
+│   ├── public/
+│   └── src/
+│       ├── components/     # UI components
+│       ├── pages/          # Page components
+│       ├── context/        # React context for state management
+│       ├── hooks/          # Custom hooks
+│       ├── services/       # API service functions
+│       ├── utils/          # Utility functions
+│       ├── assets/         # Static assets
+│       ├── App.js          # Main App component
+│       └── index.js        # Entry point
+│
+├── server/                 # Node.js + Express backend
+│   ├── config/             # Configuration files
+│   ├── controllers/        # Route controllers
+│   ├── middleware/         # Custom middleware
+│   ├── models/             # MongoDB models
+│   ├── routes/             # API routes
+│   ├── services/           # Business logic
+│   ├── utils/              # Utility functions
+│   └── server.js           # Entry point
+│
+├── .env                    # Environment variables
+├── .gitignore              # Git ignore file
+└── package.json            # Project metadata

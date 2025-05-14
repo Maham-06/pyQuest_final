@@ -1,0 +1,12 @@
+client/
+├── public/                # Static files
+├── src/
+│   ├── components/        # Reusable UI components
+│   ├── pages/             # Page components
+│   ├── context/           # React context providers
+│   ├── hooks/             # Custom React hooks
+│   ├── services/          # API service functions
+│   ├── utils/             # Utility functions
+│   ├── assets/            # Static assets (images, icons)
+│   ├── App.js             # Main App component with routing
+│   └── index.js           # Entry point
